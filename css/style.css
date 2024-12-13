@@ -689,6 +689,7 @@ nav#nav-mobile a:hover {
 
 /* --------- 2.6 Images ---------- */
 
+/* chagpt code start */
 .featherlight-content img {
     max-width: 100%;  /* Prevents the image from overflowing */
     height: auto;     /* Maintains the image aspect ratio */
@@ -705,7 +706,7 @@ nav#nav-mobile a:hover {
     opacity: 1 !important; /* Ensures full opacity */
     transition: none;      /* Removes any hover transitions */
 }
-
+/* chatGPT code end */
 
 /*Alignment*/
 
